@@ -69,10 +69,15 @@ Modes of transportation: Bus-subway, Taxi, Towncar
 
 Source: [Refer for StackOverFlow Article Link](https://stackoverflow.com/questions/5270599/make-div-clickable-with-jquery)
 
-
+```
 $(".myBox").click(function()  {
 	window.location =  $(this).find("a").attr("href");
 	return  false;
 });
 
+<<<<<<< HEAD
+=======
+```
+
+>>>>>>> 4bd411e459b9edb0b3d61e30d4d6fabc93b906db
 Snippet Source: [Refer CSS tricks](https://css-tricks.com/snippets/jquery/make-entire-div-clickable/)
