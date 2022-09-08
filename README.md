@@ -31,7 +31,7 @@ Modes of transportation: Bus-subway, Taxi, Towncar
  * Mecca Masjid.
  * Birla Mandir.
 
-#### To Know more details about me [Click Here]()
+#### Regarding more details about me [Click Here](https://github.com/syamallaparthi/assignment2-allaparthi/blob/main/AboutMe.md)
 
 
 ***
